@@ -130,3 +130,9 @@ Cisco IOS CLI · IPv4 Subnetting · OSPF · VLANs · 802.1Q Trunking · Inter-VL
 ---
 
 **Purpose:** Hands-on networking portfolio project demonstrating practical Cisco configuration, troubleshooting, and network redundancy concepts.
+
+## Troubleshooting Documentation
+
+Detailed troubleshooting cases and resolutions are available here:
+
+[View Network Troubleshooting Documentation](docs/troubleshooting.md)
