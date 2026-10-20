@@ -3,7 +3,7 @@
 ## Project Overview
 ## Network Topology
 
-![Network Topology](screenshots/network-topology.png)
+![Network Topology](network-topology.png)
 This project demonstrates the design, implementation, and troubleshooting of a simulated enterprise network using Cisco Packet Tracer.
 
 The lab connects a Headquarters (HQ) network to a Branch network using OSPF dynamic routing. It also implements VLAN segmentation, inter-VLAN routing, DHCP, access control lists (ACLs), and HSRP gateway redundancy.
