@@ -3,7 +3,8 @@
 ## Project Overview
 ## Network Topology
 
-![Cisco Enterprise Multi-Site Network Topology](network-topology.png)
+![Cisco Enterprise Multi-Site Network Topology]()[
+](https://github.com/queameer12/cisco-enterprise-multisite-lab/blob/12014d1f3c8e75fee2c8ec35a2c235c0243a4a79/network%20topology.png)
 This project demonstrates the design, implementation, and troubleshooting of a simulated enterprise network using Cisco Packet Tracer.
 
 The lab connects a Headquarters (HQ) network to a Branch network using OSPF dynamic routing. It also implements VLAN segmentation, inter-VLAN routing, DHCP, access control lists (ACLs), and HSRP gateway redundancy.
